@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TareaCorta1</string>
+    <string name="Titulo">Convertidor de Monedas</string>
+    <string name="Moneda1">De:</string>
+    <string name="Moneda2">A:</string>
+    <string name="Valor">Cantidad</string>
+</resources>
